@@ -1,6 +1,6 @@
 # ☁️ AWS S3 Bootcamp: Host Your First Website on AWS
 
-# Aldrick's AWS Portfolio - built at the AWS S3 Bootcamp 2026
+
 
 **AWS Student Builder Group – PCU Cavite** · November 19, 2026 · Philippine Christian University – Dasmariñas
 
